@@ -198,6 +198,6 @@ window.onload = function () {
       startGame.setupNewWord();
     }
   
-    let startGame = new Hangman(); //initiates first game on windo load
+    let startGame = new Hangman(); //initiates first game on window load
     startGame.setupNewWord();
   };
